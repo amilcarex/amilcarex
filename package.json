@@ -1,10 +1,10 @@
 {
-  "name": " ",
+  "name": "amilcarex",
   "version": "0.0.1",
-  "description": "",
-  "keywords": "",
-  "license": "",
-  "author": "",
+  "description": "Portafolio",
+  "keywords": [],
+  "license": "ISC",
+  "author": "Amilcar José Coronado Sosa",
   "scripts": {
     "build": "parcel build index.html",
     "dev": "parcel index.html --open",
@@ -13,5 +13,17 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilcarex/Portafolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amilcarex/Portafolio/issues"
+  },
+  "homepage": "https://github.com/amilcarex/Portafolio#readme"
 }
